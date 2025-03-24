@@ -6,6 +6,7 @@ This repository contains projects completed as part of the DSC 680: Applied Data
 
 #### Repository Structure
 
+```
 /project-name-1  
    ├── datasets/        # Raw and processed datasets  
    ├── notebooks/       # Jupyter Notebooks for analysis  
@@ -14,7 +15,7 @@ This repository contains projects completed as part of the DSC 680: Applied Data
    ├── src/             # Scripts for data processing and modeling  
    ├── README.md        # Project-specific details  
 /project-name-2  
-...
+```
 
 
 #### Projects Included
