@@ -7,7 +7,7 @@ This repository contains projects completed as part of the DSC 680: Applied Data
 #### Repository Structure
 
 ```
-/project-name-1  
+/project-1-customer-segmentation  
    ├── datasets/        # Raw and processed datasets  
    ├── notebooks/       # Jupyter Notebooks for analysis  
    ├── models/          # Saved models and results  
